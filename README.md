@@ -11,10 +11,12 @@ Challenges for this project were identifying which semantic element to include a
 Future implementations should include responsiveness updates.
 
 
-Screenshot of the page can be viewed here
+## Page Snapshot
 ![screenshot](/assets/images/Horiseon%20-%20Google%20Chrome%206_4_2022%207_53_40%20PM.png)
 
-The link to the depoloyed application is https://rkh1988.github.io/Refactor-HTML/
+### Link to the Depoloyed Application
+https://rkh1988.github.io/Refactor-HTML/
 
 
-The GitHub repository for this project can be found here: https://github.com/RKH1988/Refactor-HTML
+### GitHub Repository
+https://github.com/RKH1988/Refactor-HTML
